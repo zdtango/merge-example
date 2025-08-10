@@ -1,3 +1,24 @@
 hi this is azalea
 fix linter errors
 hello world
+
+my local version:
+E <-- my commit (havent pushed)
+F <-- origin main
+E
+D
+C
+B
+A
+
+
+
+remote version:
+F <-- origin main
+E
+D
+C
+B
+A
+
+
